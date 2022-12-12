@@ -11,5 +11,5 @@ h1{
     font-family: 'RobotoSlab', Courier, monospace;
 }
 body{
-    background-image: url('/img/background.png');
+    background-image: url(../img/background.png);
 }
