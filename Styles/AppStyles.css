@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "RobotoSlab";
+    src: url("fonts/RobotoSlab-VariableFont_wght.ttf") format("truetype");
+  }
+body{
+    background-image: url('/img/background.png');
+    font-family: 'RobotoSlab', Courier, monospace;
+    color:white;
+}
