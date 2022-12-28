@@ -2,13 +2,16 @@
     font-family: "RobotoSlab";
     src: url("fonts/RobotoSlab-VariableFont_wght.ttf") format("truetype");
   }
-h1{
+h1,h4{
     margin-top:10%;
     color:white;
     font-family: 'RobotoSlab', Courier, monospace;
 }
 .btn{
     font-family: 'RobotoSlab', Courier, monospace;
+}
+.logo{
+    margin-top:300px;
 }
 body{
     background-image: url(../img/background.png);
